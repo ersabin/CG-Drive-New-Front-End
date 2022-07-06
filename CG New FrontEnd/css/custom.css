@@ -1,0 +1,13 @@
+.cstm, .cstm:active, .cstm:visited{
+    background-color: darkblue !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.cstm:hover{
+    background-color: red !important;
+}
+
+.folder{
+    height: 70px !important;
+}
